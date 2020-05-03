@@ -1,0 +1,5 @@
+Remarks Major project
+1. make destination Required - owner mst know where the car is going , in case of any mishap
+2 criminal record of the car. eg. someone sold a stolan car here , its a problem for the renter
+3. licence of the user, again for the security
+
